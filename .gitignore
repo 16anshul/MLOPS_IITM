@@ -1,0 +1,3 @@
+.env
+data/iris.csv
+artifacts/model.joblib

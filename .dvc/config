@@ -1,0 +1,5 @@
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://anshul09iitm-dvc-bucket/dvcstore
+    projectname = uplifted-elixir-461608-s8
